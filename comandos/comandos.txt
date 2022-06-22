@@ -11,3 +11,4 @@ git show
 git log
 echo Second > 2.txt
 git add . 
+git checkout fb436dcbebb78da77ed07faf3dba87d1954c2835
