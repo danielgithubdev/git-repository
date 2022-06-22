@@ -1,0 +1,13 @@
+git init
+echo First > 1.txt
+git branch
+git status
+git add 1.txt
+git config --global user.name souza
+git config --global user.email souza@monkeelabs.com.br
+git config --list
+git commit -m "First awesome commit"
+git show
+git log
+echo Second > 2.txt
+git add . 
